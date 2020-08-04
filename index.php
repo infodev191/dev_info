@@ -14,7 +14,7 @@
                 color: #343A40;
                 font-family: 'Hind Siliguri', sans-serif;
                 line-height: 2.6;
-                font-size: 12px;
+                font-size: 12px; 
                 text-align: left;
                 text-indent: 10px;
             }
