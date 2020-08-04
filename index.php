@@ -7,16 +7,7 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
         <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-        <style>
-            .secion2 table  {
-                border-collapse: collapse;
-                width: 100%;
-                color: #343A40;
-                font-family: 'Hind Siliguri', sans-serif;
-                line-height: 2.6;                
-                text-align: left;
-                text-indent: 10px;
-            }
+        <style>            
             th {
                 background-color: #407AAD;
                 color: white;
